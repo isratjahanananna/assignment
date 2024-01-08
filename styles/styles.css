@@ -81,6 +81,14 @@ line-height: 30px; /* 166.667% */
     padding:130px 60px ;
 }
 
+.join-now{
+    background: none;
+    color: #FFF;
+    padding: 8px 30px;
+    border: 0;
+}
+
+
 .two-twenty-four{
 width: 319.83px;
 height: 464.662px;
@@ -131,6 +139,16 @@ height: 600px;
 flex-shrink: 0;
 border-radius: 16px;
 margin-left: 70px;
+justify-content: space-around;
+}
 
+.imagess{
+    border-radius: 370px;
+border: 15px solid #F00;
+width: 370px;
+height: 370px;
+flex-shrink: 0;
+padding: 5px;
+margin: 5px 5px;
 }
 
